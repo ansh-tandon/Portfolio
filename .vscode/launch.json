@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\ansht\\Downloads\\Ted 2 2015 UNCENSORED 1080p HC HDRip x264 AAC-JYK\\Sample\\mystery cpde - 23\\index.html"
+        }
+    ]
+}
